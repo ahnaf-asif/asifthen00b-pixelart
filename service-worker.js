@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.0b5a8cfa418eb3a6e7fef1695322967f.js"
+  "/asifthen00b-pixelart/precache-manifest.448a3bf622004404a6db772dbe0555b0.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "pixel-art"});
